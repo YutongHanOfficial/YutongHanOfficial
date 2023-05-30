@@ -2,7 +2,6 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         Hello, I'm Yutong. I create stuff.<br>
-        Profile format by wervlad (https://github.com/wervlad).<br>
     </i><br>
     <a href="https://www.linkedin.com/in/yutong-han-b6558a20a/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
@@ -41,4 +40,19 @@
   <a href="https://github.com/yutonghanofficial">
     <img src="https://komarev.com/ghpvc/?username=yutonghanofficial&color=blue&style=flat)" />
   </a>
+</p>
+
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=yutonghanofficial&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=1800&langs_count=10&theme=transparent"
+    />
+    <source
+      srcset="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=yutonghanofficial&layout=pie&hide_border=true&cache_seconds=1800&langs_count=10&theme=transparent"
+    />
+    <img
+       src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=yutonghanofficial&layout=pie&hide_border=true&cache_seconds=1800&langs_count=10&theme=transparent"
+       alt="Top Languages"
+     />
+  </picture>
 </p>
