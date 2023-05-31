@@ -1,5 +1,5 @@
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
+    <b>Welcome to my profile!</b><br><br>
     <i>
         Hello, I'm Yutong. I create stuff.<br>
     </i><br>
