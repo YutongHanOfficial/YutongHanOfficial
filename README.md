@@ -16,6 +16,7 @@
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/yutonghanofficial)
 [![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)](https://github.com/yutonghanofficial)
 [![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)](https://github.com/yutonghanofficial)
+[![Lua](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua)](https://github.com/yutonghanofficial)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/yutonghanofficial)
 
 ### OS
