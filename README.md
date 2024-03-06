@@ -33,9 +33,6 @@
   <a href="https://github.com/yutonghanofficial">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yutonghanofficial&theme=transparent" />
   </a>
-  <a href="https://github.com/yutonghanofficial">
-    <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=yutonghanofficial&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=1800&langs_count=10&theme=transparent" />
-  </a>
 </p>
 
 <p align="center">
