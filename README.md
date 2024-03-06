@@ -44,7 +44,7 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=yutonghanofficial&layout=donut-vertical&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=1800&langs_count=10&theme=transparent"
+      srcset="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=yutonghanofficial&layout=donut&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=1800&langs_count=10&theme=transparent"
     />
     <source
       srcset="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=yutonghanofficial&layout=pie&hide_border=true&cache_seconds=1800&langs_count=10&theme=transparent"
