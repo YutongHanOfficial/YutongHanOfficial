@@ -27,6 +27,7 @@
 
 ### OS
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/yutonghanofficial)
+[![macOS](https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=macOS)](https://github.com/yutonghanofficial)
 [![iOS](https://img.shields.io/badge/iOS-black?style=for-the-badge&logo=iOS)](https://github.com/yutonghanofficial)
 
 <p align="center">
