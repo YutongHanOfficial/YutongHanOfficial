@@ -6,6 +6,12 @@
     <a href="https://www.linkedin.com/in/yutonghanofficial">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
+    <a href="https://www.instagram.com/yutonghanofficial">
+        <img src="https://img.shields.io/badge/Instagram-orange?style=flat-square&logo=instagram" alt="Instagram">
+    </a>
+    <a href="https://www.youtube.com/@YutongOfficial">
+        <img src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube" alt="YouTube">
+    </a>
     <a href="https://replit.com/@YutongHan2">
         <img src="https://img.shields.io/badge/Replit-blue?style=flat-square&logo=replit" alt="Replit">
     </a>
