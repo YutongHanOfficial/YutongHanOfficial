@@ -3,7 +3,7 @@
     <i>
         Hello, I'm Yutong. I create stuff.<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/yutonghanofficial">
+    <a href="https://www.linkedin.com/in/yutongofficial">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="https://www.instagram.com/yutonghanofficial">
